@@ -4,7 +4,7 @@ Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/soluti
 💼 I do web development with Phoenix/Vue on [freelance](https://www.upwork.com/freelancers/~010c740b3ae988f745). 
 * Ruby on Rails -> Phoenix 
 * jQuery -> vanilla JS -> Vue
-* Bootstrap -> Bulma -> BEM + CSS Grid
+* Bootstrap -> Bulma -> [BEM](https://css-tricks.com/bem-101/) + CSS Grid
 
 I don't like Phoenix.LiveView, because it moves computation from browser to back-end.
 
