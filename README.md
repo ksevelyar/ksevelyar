@@ -10,4 +10,4 @@ I don't like Phoenix.LiveView, because it moves computation from browser to back
 
 🖨️ I have an Ender 3 with [several upgrades](https://github.com/ksevelyar/fishing-for-fishies). I create [simple models](https://github.com/ksevelyar/mini-itx-case) with Openscad and want to switch to much faster, but also much less documented libfive. 
 
-I feel sorry to pay taxes for Putin and his bandits.
+I feel sorry to pay taxes to Putin and his bandits.
