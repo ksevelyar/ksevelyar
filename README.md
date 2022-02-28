@@ -1,5 +1,5 @@
 👋  I'm a self-taught functional programmer and [Linux](https://github.com/ksevelyar/idempotent-desktop) enthusiast.\
-Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/solutions) priorities for the moment.
+Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/solutions) priorities for the moment. 
 
 ☮️ I feel sorry to pay taxes to Putin and his [bandits](https://youtu.be/ibqiet6Bg38). 
 Putin lies so sloppily you need a bang operator to get the truth: Putin's government is the Ministry of Truth from 1984.
@@ -12,6 +12,6 @@ Putin & Co usurped the power in 1997. His narcissistic personality disorder evol
 * Bootstrap -> Bulma -> [BEM](https://css-tricks.com/bem-101/) + CSS Grid
 * SASS -> PostCSS + SugarSS
 
-I don't like Phoenix.LiveView, because it moves computation from browser to back-end. GraphQL subscribers more appealing for me.
+I don't like Phoenix.LiveView, because it moves computation from browser to back-end. GraphQL subscribers are more appealing to me.
 
 🖨️ I have an Ender 3 with [several upgrades](https://github.com/ksevelyar/fishing-for-fishies). I create [simple models](https://github.com/ksevelyar/mini-itx-case) with Openscad and want to switch to much faster, but also much less documented libfive. 
