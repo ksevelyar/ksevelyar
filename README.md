@@ -1,7 +1,7 @@
 👋  I'm a self-taught functional programmer and [Linux](https://github.com/ksevelyar/idempotent-desktop) enthusiast.\
 Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/solutions) priorities for the moment. 
 
-☮️ I feel sorry to pay taxes to Putin and his [bandits](https://youtu.be/ipAnwilMncI). 
+☮️ Все, Путин спекся. Министерство правды делает вррр.
 
 💼 I do web development with Phoenix/Vue on [freelance](https://www.upwork.com/freelancers/~010c740b3ae988f745). 
 * Ruby on Rails -> Phoenix
