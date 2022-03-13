@@ -3,7 +3,7 @@ Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/soluti
 
 ☮️ Все, Путин спекся. Министерство правды делает вррр.
 
-💼 I do web development with Phoenix/Vue on [freelance](mailto:ksevelyar@gmail.com). 
+💼 I do web development with Phoenix/Vue on [freelance](mailto:ksevelyar@protonmail.com). 
 * Ruby on Rails -> Phoenix
 * Docker -> Nix
 * jQuery -> vanilla JS -> Vue
