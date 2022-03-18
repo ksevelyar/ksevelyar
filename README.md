@@ -2,7 +2,7 @@
 Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/solutions) priorities for the moment. 
 
 ☮️ Все, Путин спекся. Министерство правды делает вррр.\
-https://youtu.be/Pfbjnpfj3ZE
+https://youtu.be/7JaS9WdsX0A
 
 💼 I do web development with Phoenix/Vue on [freelance](mailto:ksevelyar@protonmail.com). 
 * Ruby on Rails -> Phoenix
