@@ -7,7 +7,7 @@ https://youtu.be/7JaS9WdsX0A
 💼 I do web development with Phoenix/Vue as [software architect](mailto:ksevelyar@protonmail.com) with my [friends](https://github.com/rusty-cluster). 
 * Ruby on Rails -> Phoenix
 * Docker -> Nix
-* jQuery -> vanilla JS -> Vue
+* jQuery -> vanilla JS -> [Vue](https://github.com/rusty-cluster/styleguide/blob/main/js/vue.md)
 * Bootstrap -> Bulma -> [BEM](https://css-tricks.com/bem-101/) + CSS Grid
 * SASS -> PostCSS + SugarSS
 
