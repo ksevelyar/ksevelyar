@@ -13,7 +13,6 @@ https://youtu.be/7JaS9WdsX0A
 
 Phoenix.LiveView is overhyped thing for me, because it moves computation from browser to back-end. It [can't work offline](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) too. \
 It's a lot cheaper for business to split front-end and back-end to separate git repos and hire regular Vue/Elm/Svelte developers for the front-end. 
-
 [GraphQL subscribers](https://github.com/absinthe-graphql/absinthe) are more appealing to my flow, to pass reactivity from back-end to front-end.
 
 🖨️ I have an Ender 3 with [several upgrades](https://github.com/ksevelyar/fishing-for-fishies). I create [simple models](https://github.com/ksevelyar/mini-itx-case) with Openscad and want to switch to much faster, but also much less documented libfive. 
