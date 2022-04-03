@@ -8,7 +8,7 @@ Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/soluti
 💼 I do web development with Phoenix/Vue as [software architect](mailto:ksevelyar@protonmail.com) with my [friends](https://github.com/rusty-cluster). 
 * Ruby on Rails -> Phoenix
 * Docker -> Nix
-* jQuery -> vanilla JS -> [Vue](https://github.com/rusty-cluster/styleguide/blob/main/js/vue.md)
+* jQuery -> vanilla JS -> [Vue](https://github.com/rusty-cluster/styleguide/blob/main/js/vue)
 * Bootstrap -> Bulma -> [BEM](https://css-tricks.com/bem-101/) + CSS Grid
 * SASS -> PostCSS + SugarSS
 
