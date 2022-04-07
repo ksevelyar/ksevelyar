@@ -6,11 +6,11 @@ Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/soluti
 * https://meduza.io/feature/2022/04/03/bucha-prigorody-kieva-samye-strashnye-kadry-etoy-voyny
 
 💼 I do web development with Phoenix/Vue as [software architect](mailto:ksevelyar@protonmail.com) with my [friends](https://github.com/rusty-cluster). 
-* Ruby on Rails -> Phoenix
-* Docker -> Nix
-* jQuery -> vanilla JS -> [Vue](https://github.com/rusty-cluster/styleguide/blob/main/js/vue)
+* Ruby on Rails -> [Phoenix](https://github.com/rusty-cluster/styleguide/tree/main/elixir/phoenix)
+* jQuery -> vanilla JS -> [Vue](https://github.com/rusty-cluster/styleguide/tree/main/js/vue)
 * Bootstrap -> Bulma -> [BEM](https://css-tricks.com/bem-101/) + CSS Grid
 * SASS -> PostCSS + SugarSS
+* Docker -> Nix
 
 Phoenix.LiveView is overhyped thing for me, because it moves computation from browser to back-end. It [can't work offline](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) too. \
 It's a lot cheaper for business to split front-end and back-end to separate git repos and hire regular Vue/Elm/Svelte developers for the front-end. 
