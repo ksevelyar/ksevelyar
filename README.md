@@ -10,4 +10,4 @@ Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/soluti
 * jQuery -> vanilla JS -> [Vue](https://github.com/rusty-cluster/styleguide/tree/main/js/vue)
 * Docker -> Nix
 
-🖨️ I have an Ender 3 with [several upgrades](https://github.com/ksevelyar/fishing-for-fishies). I create [simple models](https://github.com/ksevelyar/mini-itx-case) with Openscad and want to switch to much faster, but also much less documented libfive. 
+🖨️ I have an Ender 3 with [several upgrades](https://github.com/ksevelyar/fishing-for-fishies). I create [simple models](https://github.com/ksevelyar/mini-itx-case) with Openscad. 
