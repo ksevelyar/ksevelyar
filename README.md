@@ -1,5 +1,5 @@
 👋  I'm a self-taught functional programmer and [Linux](https://github.com/ksevelyar/idempotent-desktop) enthusiast.\
-Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/solutions) priorities for the moment. 
+Elixir and Rust are my [learning](https://exercism.org/profiles/ksevelyar/solutions?order=newest_first) priorities for the moment. 
 
 ☮️ Все, Путин спекся. Министерство правды делает вррр.
 * https://youtu.be/7JaS9WdsX0A
